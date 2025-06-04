@@ -1,0 +1,31 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "curso node",
+  "keywords": [
+    "curso",
+    "nodejs",
+    "belen"
+  ],
+  "homepage": "https://github.com/belenburgos20/Nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/belenburgos20/Nodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belenburgos20/Nodejs.git"
+  },
+  "license": "ISC",
+  "author": "Belen Burgos",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  },
+  "devDependencies": {
+    "standard": "^17.1.2"
+  }
+}
